@@ -2,3 +2,5 @@ These codes were written a long time ago，which is simple for car following. Th
 
 
 
+<div align=center><img width="550" height="450" src="https://github.com/YimingShu-teay/Car-Following/blob/main/fig/fig1.png"/></div>
+
